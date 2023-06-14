@@ -1,0 +1,5 @@
+# ignore the following folders and files
+node_modules
+
+# ignore this also
+.vscode
